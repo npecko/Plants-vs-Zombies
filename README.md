@@ -5,6 +5,8 @@
 * **Snow Pea vs Cone Head**
 * **Cactus vs Bucket Head**
 
+**Everything in the game is controlled by Left Mouse Button. To place a plant on the grid - Click on a flower in the inventory and then click again on a square of the grid.**
+
 ![main menu](https://raw.githubusercontent.com/npecko/Plants-vs-Zombies/master/assets/github/1.png)
 ![level three](https://raw.githubusercontent.com/npecko/Plants-vs-Zombies/master/assets/github/2.png)
 ![pause menu](https://raw.githubusercontent.com/npecko/Plants-vs-Zombies/master/assets/github/3.png)
